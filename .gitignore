@@ -1,0 +1,15 @@
+__pycache__
+.vscode
+build
+.env
+*.db
+*.json
+dist
+venv
+*.exe
+*.spec
+*.docx
+*.log
+*.bat
+teste.py
+*.xml
